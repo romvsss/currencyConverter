@@ -11,6 +11,8 @@ html {
   .body {
     background-color: rgb(203, 204, 204);
     font-family: "Source Sans Pro", sans-serif;
+    background-image: url(https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg?cs=srgb&dl=pexels-pixabay-47344.jpg&fm=jpg);
+    background-size: 2000px;
   }
   .header {
     max-width: 700px;
