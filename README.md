@@ -5,6 +5,6 @@
 ## DEMO: https://romvsss.github.io/currencyConverter/
 
 ## Used languages
--HTML
--CSS
--JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
