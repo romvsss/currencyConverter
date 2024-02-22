@@ -1,5 +1,10 @@
 # currencyConverter
 
-Tutaj przeliczysz PLN na EURO, USD oraz GBP.
+##Here you can convert PLN to USD, GBP and EUR.
 
-https://romvsss.github.io/currencyConverter/
+## DEMO: https://romvsss.github.io/currencyConverter/
+
+##Used languages
+-HTML
+-CSS
+-JAVASCRIPT
